@@ -21,7 +21,7 @@ const constants = {
     UNKNOWN: "Unknown error",
   },
   FIRST_LETTER_SIGN: "#",
-  HOST_URL: "http://192.168.1.52:9000",
+  HOST_URL: "http://127.0.0.1:9000",
   LOGIN_SCREEN: {
     FORM_TILE: "Contacts app",
     REMEMBER_ME: "Remember me",
